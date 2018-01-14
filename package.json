@@ -1,0 +1,23 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "for feed upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagjitKaur/widget_ajax.git"
+  },
+  "keywords": [
+    "twitter",
+    "feed"
+  ],
+  "author": "jagjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JagjitKaur/widget_ajax/issues"
+  },
+  "homepage": "https://github.com/JagjitKaur/widget_ajax#readme"
+}
